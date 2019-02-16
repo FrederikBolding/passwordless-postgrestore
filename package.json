@@ -7,9 +7,9 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcryptjs": "^2.4.3",
     "passwordless-tokenstore": "0.0.10",
-    "pg": "^6.4.0"
+    "pg": "^7.8.0"
   },
   "devDependencies": {
     "chai": "^4.0.2",
